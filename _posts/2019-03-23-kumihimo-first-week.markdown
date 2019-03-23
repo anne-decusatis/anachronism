@@ -2,10 +2,9 @@
 layout: post
 title:  "Kumihimo, first week"
 date:   2019-03-23 11:01:09 -0400
-categories: fibercraft
+categories: 
+- "fibercraft"
 ---
-
-# Kumihimo, first week
 
 On Monday, I felt like I should start knitting again. I don't actually like knitting, but I wanted something to keep my hands busy. So I asked my Facebook friends for a fiber art that I could do on the subway trains in to work. 
 
