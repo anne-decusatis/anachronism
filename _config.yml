@@ -13,22 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: anachronism
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A blog where I keep track of my path through creative anachronism
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: precisememory
+# github_username:  anne-decusatis
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-feed 
+  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +40,26 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# These are the Github defaults
+github: [metadata]
+encoding: UTF-8
+kramdown:
+   input: GFM
+   hard_wrap: false
+future: true
+jailed: false
+# use minima theme, as above
+# theme: jekyll-theme-primer
+gfm_quirks: paragraph_end
+
+# These are the archive plugin defaults
+jekyll-archives:
+  enabled: []
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
