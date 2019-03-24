@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Introduction to my rapier kit"
+date:   2019-03-24 10:00:00 -0400
+categories: 
+- "rapier"
+---
+
+Typically, I bring my rapier kit with me to work on Wednesdays, and go straight to practice after work. As I live in Queens and both work and practice are in Manhattan, this cuts down on my travel time significantly, at the cost of having to carry a heavy bag of mostly swords through rush hour crowds. However, my office just moved locations, and the new location is very concerned about security. I wrote up some descriptions of the gear I bring to practice, and took pictures, so the security officers wouldn't be surprised. (As you'll see, I was very concerned about the metal detector that I was told would be involved, though it hasn't been an issue so far.)
+
+I thought I'd post the information here as well, as an example of what a minimal set of rapier gear might look like after accumulating for a couple years. 
+
+Note that I've left out some maintenance things I don't strictly need for a weekly practice but should probably bring, most notably: hockey tape for the tips, spare tips and washers, and wax and "rust eraser" for cleaning the swords. 
+
+Note also that I refer to my kit as "fencing gear," in hopes of not scaring any guards :)
+
+
+  
+![Closed fencing bag]({{site.url}}{{site.baseurl}}/images/rapier-kit/bag.jpg "Closed bag")
+
+This is what my fencing bag looks like when it’s full of gear. It has a shoulder strap, and I carry it on my back (along with my work backpack, containing my work laptop). The bag is black with white letters.
+
+
+
+![Fencing mask]({{site.url}}{{site.baseurl}}/images/rapier-kit/mask.jpg "Fencing mask") 
+This is my fencing mask. I carry it inside the bag. The black mesh is painted steel, and will show up in a metal detector. I have some decorative white duct tape on the front, and the white bib on the bottom is thick cloth. 
+
+
+![Green and white jacket and hood]({{site.url}}{{site.baseurl}}/images/rapier-kit/jacket.jpg "Jacket and hood")
+This is my fencing jacket and fencing hood. Both are green on the right side and white on the left side. They are made of cloth, and I typically roll them up and fit them inside my fencing mask, so they fit better in the bag.
+
+
+![Gorget]({{site.url}}{{site.baseurl}}/images/rapier-kit/gorget.jpg "Gorget")
+This is my gorget. A gorget (pronounced: gore-JAY) is a piece of armor that buckles around my neck to protect it. Mine is made of dark green leather with metal plates inside it (which will show up in a metal detector). You can see the decorative rivets on the outside, which also function to keep the metal plates in place. 
+
+
+![Sword and dagger]({{site.url}}{{site.baseurl}}/images/rapier-kit/sword.jpg "Sword and dagger")
+These are my sword and dagger, and their sheaths. The sword is 37 inches long + about a 7 inch handle. The dagger is about half as long. They are blunt along the edge (safe to push against someone), and there’s a flat washer inside the rubber tip of both, also for safety. The black rubber tip is taped on with yellow tape. The parts near the handle that stick out (quillons), in a swirling shape on the sword and a curved U shape on the dagger, are also made of metal, and are also not sharp. 
+Both sheaths are made of 1” PVC tube, sanded on the open end and with a cap on the other end. They prevent the sword and dagger from banging against other things inside the bag, and protect them. 
+
+
+![Gloves, rigid parry, water, bug spray]({{site.url}}{{site.baseurl}}/images/rapier-kit/misc.jpg "Gloves, rigid parry, water, bug spray")
+I have a couple other small things in my bag: a water bottle or two, gloves (green leather), bug spray (we practice outside at dusk). The last item in this picture is a 2 foot long, 1” diameter wooden pole. The pole is sanded, so it won’t catch on anything. I carry it with me to practice fencing with the sword in one hand and the wooden pole in the other hand.
+
+More information about my sport can be found at:
+[http://welcome.sca.org/rapier-combat/](http://welcome.sca.org/rapier-combat/).
