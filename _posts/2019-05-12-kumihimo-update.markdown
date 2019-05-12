@@ -8,7 +8,7 @@ categories:
 
 ## Notes on threads
 
-I'm traveling soon and wanted a big project that fit in a small space for the 8 hours each way on the plane. So, based on some random guessing, I ordered a 64-slot disk, 32 bobbins, and some 10/2 Valley Cotton: one pound each of mosstone green, white, and black,
+I'm traveling soon and wanted a big project that fit in a small space for the 8 hours each way on the plane. So, based on some random guessing, I ordered a 64-slot disk, 32 bobbins, and some 10/2 Valley Cotton: one pound each of mosstone green, white, and black.
 
 It turns out that 10/2 Cotton is maybe half as thick as the embroidery floss I'd been using, which is around the thinnest of fibers that I think would work for kumihimo. It's fine though, it was on sale and, as it turns out, I expect this to be about a lifetime supply. My partner helpfully pointed out that each pound of yarn is about four kilometers of yarn. 
 
@@ -40,7 +40,7 @@ _*This was my device the last time I wrote about it :)_
 
 The 64 slot disk is thicker foam than the 32, and as a reminder, the pattern was crafted on [Craft Design Online](https://craftdesignonline.com/kumihimo/kongoh-gumi-friendship-bracelets/).
 
-![32 threads on a 64 slot disk]({{site.url}}{{site.baseurl}}/images/kumihimo_may_12/16-slot-disk.jpg "I have no idea how this is going to turn out.")
+![32 threads on a 64 slot disk]({{site.url}}{{site.baseurl}}/images/kumihimo_may_12/64-slot-disk.jpg "I have no idea how this is going to turn out.")
 
 I'm excited to see how this turns out. 
 
