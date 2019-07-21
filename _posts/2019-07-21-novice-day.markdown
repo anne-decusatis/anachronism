@@ -16,6 +16,6 @@ categories:
 
 ## Kumihimo
 
-A PDF of my documentation cam be found [here]({{site.url}}{{site.baseurl}}/images/novice-day/kumihimo.pdf).
+A PDF of my documentation can be found [here]({{site.url}}{{site.baseurl}}/images/novice-day/kumihimo.pdf).
 
 ![Picture of "best documentation" scroll with my kumihimo around it]({{site.url}}{{site.baseurl}}/images/novice-day/kumihimo_and_scroll.jpg "Scroll by Mariette de Bretagne, kumihimo mine")
