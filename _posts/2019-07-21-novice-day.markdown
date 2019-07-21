@@ -4,7 +4,6 @@ title:  "East Kingdom Novice Day 2019"
 date:   2019-07-21 12:00:00 -0400
 categories: 
 - "fibercraft"
-- "rapier"
 ---
 
 ## What is Novice Day? What did I do there?
