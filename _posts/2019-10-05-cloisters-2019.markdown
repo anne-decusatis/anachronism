@@ -20,18 +20,19 @@ Every year, there is a large street fair and medieval festival in upper Manhatta
 
 ### Spec I wrote in advance (that nobody else read, didn't have time to post it in advance!)
 
-At the Cloisters demo (https://www.eastkingdom.org/EventDetails.php?eid=3551), there will be two rapier tournaments. One will be the provincial championship tourney for the Crown Province of Østgarðr. 
+At the Cloisters demo ([https://www.eastkingdom.org/EventDetails.php?eid=3551](https://www.eastkingdom.org/EventDetails.php?eid=3551)), there will be two rapier tournaments. One will be the provincial championship tourney for the Crown Province of Østgarðr. 
 The other will be a PIT OF FORTUNE, which will be run as follows:
 
 The format of the tourney will be a bear pit (winner stays in, up to 3 bouts), wounds and weapons form will be retained, in cases of a double kill both participants will be counted as a loss and leave the field. The bear pit will start shortly after 1pm and last 40 minutes, or until 1:50, whichever comes first. 
 
 Each fencer must choose someone to ROLL THE DICE for them and determine the weapons form they may bring out. Picking a volunteer from the audience to roll for you is highly encouraged. There will be one loaded die*, labeled as follows:
-SWORD
-SWORD
-DAGGER
-RIGID PARRY
-SOFT PARRY
-SWITCH HANDS
+
+- SWORD
+- SWORD
+- DAGGER
+- RIGID PARRY
+- SOFT PARRY
+- SWITCH HANDS
 
 If a fencer is authorized in more than one form, they may roll a second time to determine what they can take out in their second hand, with the following clarifications: 
 - If they roll SWITCH HANDS, that means they take a single sword in their non-dominant hand. Otherwise, they can choose what goes in what hand. If they roll SWITCH HANDS twice, they must take single sword in their non-dominant hand - they don't cancel out.
@@ -45,9 +46,9 @@ I hope you're feeling like Lady Luck is on your side!
 *Note: Loaded die is a rectangular cardboard box.*
 
 ### Changes day-of
-
+7495997f137c32a937ba711f8a52d10ecdb3b291
 - I labeled the box such that "soft parry" and "rigid parry" were on the short square sides, and the other four labels were on the long sides. 
-- I found it more entertaining to require combinations of switch hand + dagger to require taking a dagger out in the left hand, rather than sword + dagger with switched hands.
+- I found it more entertaining to require combinations of switch hand + dagger to require taking a dagger out in the non-dominant hand, rather than sword + dagger with switched hands.
 - We were on at 1pm, and by 1:30 everyone was ready to stop (it was probably over 80 degrees in the heat of the day). 
 
 Overall I think it went quite well. Some really small and cute kids rolled the large die for us. Vivat to Engle der Pfau, the winner of the tournament!
