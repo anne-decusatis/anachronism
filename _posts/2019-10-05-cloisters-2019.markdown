@@ -46,7 +46,7 @@ I hope you're feeling like Lady Luck is on your side!
 *Note: Loaded die is a rectangular cardboard box.*
 
 ### Changes day-of
-7495997f137c32a937ba711f8a52d10ecdb3b291
+
 - I labeled the box such that "soft parry" and "rigid parry" were on the short square sides, and the other four labels were on the long sides. 
 - I found it more entertaining to require combinations of switch hand + dagger to require taking a dagger out in the non-dominant hand, rather than sword + dagger with switched hands.
 - We were on at 1pm, and by 1:30 everyone was ready to stop (it was probably over 80 degrees in the heat of the day). 
