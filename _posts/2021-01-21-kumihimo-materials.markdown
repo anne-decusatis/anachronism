@@ -9,8 +9,10 @@ categories:
 ## Materials comparison for kumihimo
 
 I finally finished my long hemp cord! It's 5'7" or so. I'm excited to work with other materials - filament silk and nettle are up next. 
+
 (Filament silk was what they made kumihimo with in Japan, and nettle is also documentable as a clothing fabric in Japan at the same time, though it's not as high class and I don't know if they'd use the same techniques with it.)
-(Cotton also existed in Japan towards the end of the SCA's period of study after western contact, but silk kumihimo very much predates it, and mercerization is definitely a technique from post-period: https://en.wikipedia.org/wiki/Mercerised_cotton)
+
+(Cotton also existed in Japan towards the end of the SCA's period of study after western contact, but silk kumihimo very much predates it, and mercerization is definitely a technique from post-period: <https://en.wikipedia.org/wiki/Mercerised_cotton>)
 
 Here's a taste of the comparison I've been planning.
 
