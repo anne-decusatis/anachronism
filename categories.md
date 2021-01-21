@@ -6,3 +6,5 @@ permalink: /categories/
 
 # [Fibercraft]({{site.url}}{{site.baseurl}}/category/fibercraft)
 # [Rapier]({{site.url}}{{site.baseurl}}/category/rapier)
+# [Event]({{site.url}}{{site.baseurl}}/category/event)
+
