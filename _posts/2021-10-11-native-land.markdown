@@ -26,7 +26,9 @@ Our next steps are:
 ### Draft 2 content, rewritten per that first feedback bullet point, approx October 2020
 
 Native Land Acknowledgement
+
 What?
+
 At the opening of viceregal court, we ask the heralds to include an acknowledgement of the people who inhabited the area around the event site prior to 1600. For events taking place in the territory of Østgarðr, the most basic form of this would consist of a mention of the Lenape (or Lenni Lenape) people, the name used by members of an extended group that included most of New Jersey and our corner of New York State. Depending on the event location, it may be possible to include additional details, such as the name of a local sub-group (such as the Wappinger people, a sub-group of the Lenape that lived in the area east of the Hudson and north of Manhattan) or the indigenous name for the adjacent area; search https://native-land.ca/ or similar resources for the location of the specific event, especially in Westchester/Putnam, on Long Island, or in the outer boroughs.
 
 The announcement should be brief, and it should be clear that the land acknowledgement is coming from a mindful place of respect for the pre-17th century occupants of the land. 
@@ -48,6 +50,7 @@ Suggested wording, with details of the initial sentence adjusted based on the ev
 * During the medieval period, the land around this site was inhabited by the Wappinger people.
 
 After the initial sentence, the following paragraphs are available for reuse as a brief description:
+
 When we host events in order to share knowledge of pre-17th century ways of life, we want to acknowledge and honor the specific Native cultures that exist where we are now, from our period of study through the present day; support the expansion of the Society’s focus beyond Western Europe; and promote mindful inclusion within the SCA of people from all backgrounds. 
 
 This is just a starting point: find out more about land acknowledgement generally at https://usdac.us/nativeland and contact native-land@ostgardr.eastkingdom.org with questions.
