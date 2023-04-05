@@ -9,7 +9,8 @@ categories:
 ## Kingdom A&S
 
 
-![Me at my display]({{site.url}}{{site.baseurl}}/images/2023-03-11/a-s-2023-display.jpg "Me at a table with kumihimo cords on it")
+![Me at my display]({{site.url}}{{site.baseurl}}/images/a-s-2023-display.jpg "Me at a table with kumihimo cords on it")
+(photo by Marion Forester)
 
 
 I entered my kumihimo materials survey, that I have been working on since 2019, to Kingdom A&S/Queen's Prize. Documentation, including images, available as PDF [here]({{site.url}}{{site.baseurl}}/images/kumihimo-2023-as.pdf)
