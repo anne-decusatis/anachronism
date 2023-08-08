@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Pennsic 2023: Rapier classes I took (so far)"
+date:   2023-08-08 19:00:00 -0400
+categories: 
+- "rapier"
+---
+
+
+Some quick writeups of my notes/things I remembered from classes so far!
+
+## Fencing with the Japanese Sword (8/6/2023) 
+
+Hands-on practice of techniques for fighting with a katana against an opponent with a rapier, with bokken provided if you didn't have a katana. Taught by Lord Alessandro Deveraux (sorry, I didn't write down and don't remember the Japanese persona name you also use).
+
+Instructor is a black belt in kenjutsu in addition to doing rapier. In his words, the goal of kenjutsu is to "hurt people as quickly as possible" making it a bad fit for SCA rapier ruleset combat (he gave the example of grappling techniques broadly, and a specific example of trying to cut someone's thumb off on the way into striking them). The techniques are a good fit for katanas, and can still be applied, but SCA combat requires you are more controlled and more indirect. 
+
+### Dis/advantages of katanas vs rapiers
+
+Main disadvantage of katana: 
+
+- it's much shorter than a rapier (30in blade on a katana, rapiers are usually a max of 45 inches, mine is on the short end at 38" and Aife's is 42"). There were some rules on maximum katana length in period but they are different from the rules for European swordfighting. He said that during Japanese unification swords were confiscated so there are many katanas extant that are just a bit odd in order to not quite meet the rules for being a sword. (Not sure I got that anecdote 100% right.) This means that you need to close. Most of the hands on time was spent on techniques for closing, many of them are more general than katana-specific. 
+
+Advantages of katana:
+
+- Leverage, it can be used either as 1 handed or 2 handed and it's a thicker blade. Has a huge leverage advantage against a rapier and still some against a longsword for C&T. 
+- Curve, cuts easy at close range compared to a rapier or straight blade, and can do some curve tricks if your opponent isn't expecting them. 
+
+This class covered single point only - closing is more interesting if your opponent has a dagger, somewhat mitigated by you having a wakizashi. Musashi was the only one to really use case of katana, that isn't in scope either. 
+
+### Cut and thrust vs heavy rapier with a katana
+
+In practice he said it doesn't really matter. It's easy to draw cut with it, percussive cuts not required. 
+Castille can make katanas with both heavy rapier flex and crossover flex in addition to the cut and thrust only flex. ((My note: Purpleheart's heavy rapier flex tested katana has been out of stock for two months since I started looking, but who's counting?))
+
+### Hands on practice
+
+Most of the time was spent on closing techniques. 
+
+#### 3 kinds of clearing the line for closing, and how to do them
+
+1. Move your opponent's sword
+
+We practiced beats and throws. The goal is to hit the midpoint or foible of the rapier with the midpoint of the katana, and then quickly get your katana against their hilt so they can't attack you, and you can shove them around. We were mainly practicing beating the sword inwards/across their body/towards your off hand so you can block it with your off hand later. 
+
+2. Move your body around your opponent's sword
+
+We practiced moving off line to attack. We were trying to move to the outside and keep the katana's true edge against the opponent's rapier, if I'm remembering right. A major component of this technique was not having the opponent notice you moving around them- to do that, we practiced first messing with their sword/creating a lot of "noise" with repeated small beats in many directions, then closing when they are distracted by the beats, which works better with an opponent who's easily spooked. Then we practiced avoiding blade contact while voiding out of their line, which works better with an opponent who is less easily spooked. 
+
+3. Make your opponent move their sword
+
+Put your sword where your opponent's sword isn't, or stomp/shout/etc, in order to provoke a reaction from them (works better with easily spooked; with a calm opponent you may have to throw some cuts to their sword hand to threaten them enough that they will react). When they are reacting, close while they're distracted. 
+
+#### What do you do once you're close
+
+Instructor recommendation, for Aethelmearc rules: Shove the rapier holding hand against your opponent's body, hold there with your off hand while you cut their body or head. You might lose a hand doing this but you will defeat them. In the Outlands I'm pretty sure you can't grab their hand or their sword furniture, but you can push it with palm open. I wasn't that comfortable this close and would like to practice that safely before doing it for real.
+
+### Misc discussion notes
+
+I got to hold two Castille Armory built katanas, one had a shorter handle and stiffer flex, optimized for his particular school of kenjutsu ("water wheel"??) which involves throwing cuts one handed with a "hammer" grip (sword gripped perpendicular to palm). Another person's had a longer handle and less stiff flex, optimized for the more common kenjutsu style involving "casting" (?) two handed cuts with a sword grip more like a tennis racket (not perpendicular, more angled in the hand).
+
+I asked which martial art I would need to study if I wanted the "right way" to do SCA katana fighting, basically the answer I got was that Japanese martial arts have evolved to be a very poor match for SCA rules but cross training anything is probably interesting if I want/have time to do that. Maybe Filipino swordfighting is closer? I suspect this answer is just from the interests of the person suggesting it and is not comprehensive.
+
+## Women+ / Gender Minorities in Rapier panel (8/8/2023)
+
+I attended this panel the last time it was held, in 2019, and didn't personally get as much from it this time around. It was also much more sparsely attended because it overlapped with the end of the woods rapier battle. I appreciated that this time they had multiple transgender/otherwise gender diverse panelists (one transmasculine, one transfeminine, I think) but I didn't feel that much of what those panelists said was specific enough or similar enough to my experiences to be useful. I felt that the panel was weighted heavily towards those from An Tir and that the MoDs present spoke for most of the time, even though they had people with less experience on the panel and were trying to balance it. I also felt that they should've allotted more time for the panel upfront - they never cover more than one or two questions in an hour and always go over with talking. 
+
+### Topics discussed
+
+- Parenting and being a rapier fighter / balancing societal and actual expectations of mothers
+- Trying to create systemic change rather than a quick fix
+- Sharing statistics / pointing out inequities quarterly
+- Psychological differences between cis men fighters and gender diverse fighters / being able to turn on/off faster due to prior sports experience / being soft-spoken or afraid to hit hard
+- Physiological differences between cis men fighters and gender diverse fighters / turning on adrenaline slower or faster
+
+### My takeaways
+
+- This panel was largely about an experience which was not similar to mine. There were multiple complaints from panelists about men not taking on the responsibility of changing the culture / not doing their fair share of the service and therefore getting more helmet time and progressing faster. Am I doing enough and the right things for both allyship and my own growth?
+- I want to talk to our KRM about collecting statistics on gender of combatants in the Outlands in a trans-inclusive way, hopefully a way that allows for participants to not be outed to their baronial marshals. I am not convinced that I was gendered appropriately in previous surveys when I was in the East, due to my name. 
+- A game to get estrogen-dominant people to get adrenaline up faster before a single/double elim tournament: Take turns shoving each other, fairly hard (with consent)!
+- Two games to get people shy about hitting others to feel more comfortable: 1. Give them a weapon and tell them to move the instructor, who has no weapon, backwards to a line behind them. They will hopefully focus on moving and won't think about it being "hitting" 2. Poke them repeatedly - first hit their sword with yours, then their guard, etc. Annoy them enough to want to hit back. 
+- Lots of instructors have insufficient to downright bad instructor experience. e.g. a duke who told a new fighter not to focus on footwork (you can blow out your knees this way if your bone structure has wide hips) How can we improve instructor quality?
+- Rapier is for everyone who wants to try it! 
