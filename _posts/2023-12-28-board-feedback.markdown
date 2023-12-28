@@ -24,6 +24,9 @@ Hi,
 I'm in favor of this change to restructure Chatelaine and DEIB offices at a corporate level: http://www.sca.org/news/commentary-request-proposed-changes-chatelaine-and-deib/. Thanks for posting it for commentary. Please let me know this was received, and feel free to forward it on as necessary.
 
 Thanks, and happy holidays/new year,
+
 (my modern name) (they/them)
+
 Noble Anne of Østgardr, Silver Wheel of the East, Defender of the Silver Tyne of the Outlands
+
 member # (my member number)
