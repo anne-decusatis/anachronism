@@ -8,22 +8,24 @@ categories:
 
 ## Writing to the Board, even when they have not requested my feedback and commentary
 
-Sometimes things happen and I want my opinion to be heard by the SCA Board of Directors even if they haven't requested it. A quick part two to https://anne.loves.technology/anachronism/event/2023/12/28/board-feedback.html
+Sometimes things happen and I want my opinion to be heard by the SCA Board of Directors even if they haven't requested it. A quick part two to <https://anne.loves.technology/anachronism/event/2023/12/28/board-feedback.html>
 
 ### How to do it
 
 * (Required) Use the Comments alias: SCA-Comments@sca.org
 * (Recommended) CC your kingdom seneschal and if relevant your kingdom's crown / your "reporting chain"
-* (Recommended) CC every relevant ombudsman from http://www.sca.org/about/officers/#board
+* (Recommended) CC every relevant ombudsman from <http://www.sca.org/about/officers/#board>
 * (Suggested) Write in your email that you'd like a response confirming receipt. If you have some other call-to-action you'd prefer to end with, for example a change request, add that as well.
 * Sign with your modern name (required), SCA name (required if you have one, but still send if you don't), member number (required if you have one, but still send if you don't), and the highest level of award that you have, if any (suggested, probably works better if you have a GoA or peerage, but I do it anyway)
 
 ### A recent example
 subject: East Kingdom Spring Rapier Crown variance support
 
+
+
 To whom it may concern -
 
-I am writing in favor of the East Kingdom's recent proposal to have a rapier combat Spring Crown: https://ma.eastkingdom.org/regarding-the-east-kingdoms-request-for-a-spring-crown-variance/
+I am writing in favor of the East Kingdom's recent proposal to have a rapier combat Spring Crown: <https://ma.eastkingdom.org/regarding-the-east-kingdoms-request-for-a-spring-crown-variance/>
 
 Please let me know if I've sent this to the right people, and please feel free to pass on my message if I have not! I have intentionally tried to cast a wide net and so I have sent this email to the following people:
 
@@ -41,8 +43,12 @@ Witnessing Tindal and Alberic's reign when I lived in the East, soon after chang
 
 I hope for a future for the SCA where we can have crowns of many disciplines, the same way that we have peers of the realm in many disciplines today. I believe that this variance request is a small step in that direction, and I look forward to seeing what expansions we can make next.
 
+
 Thank you,
+
 Noble Anne of Østgardr, Silver Wheel of the East, Defender of the Silver Tyne of the Outlands
+
 mka (my name) (they/them/theirs)
+
 member # (my member number)
 
