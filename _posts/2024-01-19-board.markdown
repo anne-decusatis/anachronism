@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Example: non-requested commentary to the SCA Board of Directors"
+date:   2024-01-19 16:00:00 -0700
+categories: 
+- "event"
+---
+
+## Writing to the Board, even when they have not requested my feedback and commentary
+
+Sometimes things happen and I want my opinion to be heard by the SCA Board of Directors even if they haven't requested it. A quick part two to https://anne.loves.technology/anachronism/event/2023/12/28/board-feedback.html
+
+### How to do it
+
+* (Required) Use the Comments alias: SCA-Comments@sca.org
+* (Recommended) CC your kingdom seneschal and if relevant your kingdom's crown / your "reporting chain"
+* (Recommended) CC every relevant ombudsman from http://www.sca.org/about/officers/#board
+* (Suggested) Write in your email that you'd like a response confirming receipt. If you have some other call-to-action you'd prefer to end with, for example a change request, add that as well.
+* Sign with your modern name (required), SCA name (required if you have one, but still send if you don't), member number (required if you have one, but still send if you don't), and the highest level of award that you have, if any (suggested, probably works better if you have a GoA or peerage, but I do it anyway)
+
+### A recent example
+subject: East Kingdom Spring Rapier Crown variance support
+
+To whom it may concern -
+
+I am writing in favor of the East Kingdom's recent proposal to have a rapier combat Spring Crown: https://ma.eastkingdom.org/regarding-the-east-kingdoms-request-for-a-spring-crown-variance/
+
+Please let me know if I've sent this to the right people, and please feel free to pass on my message if I have not! I have intentionally tried to cast a wide net and so I have sent this email to the following people:
+
+* SCA Comments Alias
+* CC: Ombudsmans for Marshal, the Outlands (my home kingdom), the East (where this message is about, and my previous home), the DEIB Officer, and the Society Marshal
+* CC: TRM and TRH of the East
+* CC: Outlands Kingdom Seneschal, TRM and TRH of the Outlands
+
+I would greatly appreciate an acknowledgement from someone on the Board of Directors side that this is received & added to their file, and I'm happy to answer any follow up questions if there are any. No acknowledgement is required from anyone else on CC, just for your information, though I'm happy to talk about it this weekend at Outlands Coronation! On to the message:
+
+I am in favor of this proposal because it is a small first step towards increasing the population who can be represented in our rulers. Even if the concept of "royalty" was just an in-game construct, seeing people of varied skillsets and backgrounds would be a benefit to our inclusivity. However, in our current game, being reigning royalty affects more than just what happens at a theatrical court - reigning royals get to make administrative policy that affects their entire kingdom via curia, and often have say in many other parts of how the kingdom runs, such as addressing harassment via banishment from the royal presence of known harassers. Having a wider pool of potential rulers would allow more voices to be represented when these important policies are written, as well as when they are enacted in daily life.
+ 
+On a personal level, there is a little more I wish to share about how this made me feel:
+Witnessing Tindal and Alberic's reign when I lived in the East, soon after changing the Eastern rulers from "king and queen" to "sovereign and consort", was exciting and affirming to me as a LGBTQIA+ person. I didn't see a path to the throne for myself in it, but it was nice to see their loud support of a community I am a part of. I felt similarly excited and affirmed, to a much greater extent, reading about this variance and seeing my own path in it as an enthusiastic rapier combatant. I'm not interested in myself participating in armored combat due to what I perceive as a higher injury risk, and also, it is just a martial art that doesn't play to my strengths and interests as much. Nor am I interested at this time in being an inspirational representative of grace and comportment as a consort (and the attendant accidental misgendering that would likely come with that - as a nonbinary and transmasculine person I am not interested in being a "Lady of the Rose" and while I know alternative titles are available, in my experience there is a hurdle for others in remembering to use them). I do care deeply about how policy is made at a kingdom level and beyond (as my emails to the BoD over the years have shown) - and this opens up access to that for me in a way that I haven't felt I've had before.
+
+I hope for a future for the SCA where we can have crowns of many disciplines, the same way that we have peers of the realm in many disciplines today. I believe that this variance request is a small step in that direction, and I look forward to seeing what expansions we can make next.
+
+Thank you,
+Noble Anne of Østgardr, Silver Wheel of the East, Defender of the Silver Tyne of the Outlands
+mka (my name) (they/them/theirs)
+member # (my member number)
+
