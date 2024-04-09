@@ -120,13 +120,19 @@ Currently, Corpora does not specifically address the right of the Crown to contr
 ### Seneschal's Handbook
 
 I.10
-> There is often much confusion about the separate lines of authority between the Kingdom Seneschal and the Crown. Those lines can be delineated as follows:
->	a. The Crown has all ceremonial responsibility and authority in making decisions regarding Kingdom courts, awards, etc. They are in charge of administering the “game side” of the SCA in their Kingdom, within the confines of the Governing Documents and current Kingdom Law, and are responsible for fostering an appropriate atmosphere of participation within their Kingdom.
->	b. The Crown may create or change laws within the Kingdom, while following all internal requirements, though these laws may not conflict with modern law or any higher-level SCA policy or document.
->	c. The Crown is responsible for monitoring and confirming the performance and conduct of Kingdom officers, and appointing, removing, and replacing such officers when necessary in conjunction with Society officers and the laws of their Kingdom and the SCA.
->	d. The Kingdom Seneschal is the legal representative for the Kingdom and retains control over interface with the modern world. This includes primary responsibility for investigating issues related to possible sanctions by the Crown.
->	e. The Kingdom Seneschal is responsible for making sure that the Kingdom’s laws and actions are in accordance with the governing documents of the SCA, and that modern legal requirements in the appropriate jurisdictions are followed.
->	f. A Kingdom Seneschal should keep the Crown informed of their actions and decisions. The Kingdom Seneschal and Crown must work cooperatively because their areas of authority frequently overlap.
+There is often much confusion about the separate lines of authority between the Kingdom Seneschal and the Crown. Those lines can be delineated as follows:
+
+	a. The Crown has all ceremonial responsibility and authority in making decisions regarding Kingdom courts, awards, etc. They are in charge of administering the “game side” of the SCA in their Kingdom, within the confines of the Governing Documents and current Kingdom Law, and are responsible for fostering an appropriate atmosphere of participation within their Kingdom.
+	
+	b. The Crown may create or change laws within the Kingdom, while following all internal requirements, though these laws may not conflict with modern law or any higher-level SCA policy or document.
+	
+	c. The Crown is responsible for monitoring and confirming the performance and conduct of Kingdom officers, and appointing, removing, and replacing such officers when necessary in conjunction with Society officers and the laws of their Kingdom and the SCA.
+	
+	d. The Kingdom Seneschal is the legal representative for the Kingdom and retains control over interface with the modern world. This includes primary responsibility for investigating issues related to possible sanctions by the Crown.
+	
+	e. The Kingdom Seneschal is responsible for making sure that the Kingdom’s laws and actions are in accordance with the governing documents of the SCA, and that modern legal requirements in the appropriate jurisdictions are followed.
+	
+	f. A Kingdom Seneschal should keep the Crown informed of their actions and decisions. The Kingdom Seneschal and Crown must work cooperatively because their areas of authority frequently overlap.
 
 *my note - the boundary is very fuzzy between Seneschal and Crown responsibilities in this case - Crown owns law changes and ensuring they don't conflict with higher level documents, but Seneschal owns ensuring we follow corpora, which in this case is the same thing?*
 
