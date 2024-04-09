@@ -10,7 +10,7 @@ categories:
 
 I've talked a lot about the Rapier Crown variance request in the East Kingdom but I also want to know what the status is in my current home. What would prevent a rapier crown from happening here? 
 
-We have about 200 currently authorized rapier fighters in the Outlands, I scrolled all of StagsApp and counted to find this number a few months ago, and just under 1200 paid members in the entire Outlands as of Sept 2023 per https://www.sca.org/wp-content/uploads/2023/10/2023-Membership-Summary-to-9-30.pdf. 
+We have about 200 currently authorized rapier fighters in the Outlands, I scrolled all of StagsApp and counted to find this number a few months ago, and just under 1200 paid members in the entire Outlands as of Sept 2023 per <https://www.sca.org/wp-content/uploads/2023/10/2023-Membership-Summary-to-9-30.pdf>. 
 The East Kingdom has 332 authorized rapier fighters and 2900 paid members (per initial BoD request from Matthias and Feilinn, then-King and Queen of the East, in January 2024, <https://docs.google.com/document/d/1-lLrSEJz1tSfervRLQuGrDvUz3TUzvcJ_IPkUWdELlI/edit#heading=h.sf0mlqrcbyks>, as well as sca.org source of membership above)
 
 Some reasons to be in favor of an Outlands Rapier Crown trial (I won't be covering the reasons to be in favor of or against a rapier crown generally in this post, though I feel there are many) are:
@@ -51,7 +51,7 @@ Section IV.B of the Society Seneschal's handbook provides this guidance on the r
 
 As an aside, the Glossary of the Organizational Handbook defines the "Coronet" as "The Sovereign and Consort of a principality, acting together." (page 7). The Outlands does not have any principalities.
 
-The relevant remaining documents to review are (original numbering deliberately retained):
+The relevant remaining documents to review are:
 2. The By-Laws of the Society for Creative Anachronism (SCA, Inc.)
 3. The Corporate Policies of the SCA, Inc. 
 4. The Corpora of the SCA, Inc.
@@ -120,14 +120,14 @@ Currently, Corpora does not specifically address the right of the Crown to contr
 ### Seneschal's Handbook
 
 I.10
-There is often much confusion about the separate lines of authority between the Kingdom
-Seneschal and the Crown. Those lines can be delineated as follows:
-a. The Crown has all ceremonial responsibility and authority in making decisions regarding Kingdom courts, awards, etc. They are in charge of administering the “game side” of the SCA in their Kingdom, within the confines of the Governing Documents and current Kingdom Law, and are responsible for fostering an appropriate atmosphere of participation within their Kingdom.
-b. The Crown may create or change laws within the Kingdom, while following all internal requirements, though these laws may not conflict with modern law or any higher-level SCA policy or document.
-c. The Crown is responsible for monitoring and confirming the performance and conduct of Kingdom officers, and appointing, removing, and replacing such officers when necessary in conjunction with Society officers and the laws of their Kingdom and the SCA.
-d. The Kingdom Seneschal is the legal representative for the Kingdom and retains control over interface with the modern world. This includes primary responsibility for investigating issues related to possible sanctions by the Crown.
-e. The Kingdom Seneschal is responsible for making sure that the Kingdom’s laws and actions are in accordance with the governing documents of the SCA, and that modern legal requirements in the appropriate jurisdictions are followed.
-f. A Kingdom Seneschal should keep the Crown informed of their actions and decisions. The Kingdom Seneschal and Crown must work cooperatively because their areas of authority frequently overlap.
+	There is often much confusion about the separate lines of authority between the Kingdom
+	Seneschal and the Crown. Those lines can be delineated as follows:
+	a. The Crown has all ceremonial responsibility and authority in making decisions regarding Kingdom courts, awards, etc. They are in charge of administering the “game side” of the SCA in their Kingdom, within the confines of the Governing Documents and current Kingdom Law, and are responsible for fostering an appropriate atmosphere of participation within their Kingdom.
+	b. The Crown may create or change laws within the Kingdom, while following all internal requirements, though these laws may not conflict with modern law or any higher-level SCA policy or document.
+	c. The Crown is responsible for monitoring and confirming the performance and conduct of Kingdom officers, and appointing, removing, and replacing such officers when necessary in conjunction with Society officers and the laws of their Kingdom and the SCA.
+	d. The Kingdom Seneschal is the legal representative for the Kingdom and retains control over interface with the modern world. This includes primary responsibility for investigating issues related to possible sanctions by the Crown.
+	e. The Kingdom Seneschal is responsible for making sure that the Kingdom’s laws and actions are in accordance with the governing documents of the SCA, and that modern legal requirements in the appropriate jurisdictions are followed.
+	f. A Kingdom Seneschal should keep the Crown informed of their actions and decisions. The Kingdom Seneschal and Crown must work cooperatively because their areas of authority frequently overlap.
 
 *my note - the boundary is very fuzzy between Seneschal and Crown responsibilities in this case - Crown owns law changes and ensuring they don't conflict with higher level documents, but Seneschal owns ensuring we follow corpora, which in this case is the same thing?*
 
