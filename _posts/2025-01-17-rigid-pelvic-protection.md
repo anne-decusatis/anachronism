@@ -23,7 +23,7 @@ Rigid chest protection for people with breasts is and remains optional.
 ## Links to flat-fronted pelvic protectors, taken from a Facebook post's comments from 2021 that I want to pull out from the Facebook paywall ecosystem:
 
 * <https://lobloo.com/>
-* <https://www.hockeymonkey.com/rfemcupsup.html
+* <https://www.hockeymonkey.com/rfemcupsup.html>
 * <https://www.amazon.com/dp/B01LFFT0GS/ref=cm_sw_r_cp_api_glt_fabc_W5WGSJ8ACJ25FNAC31CB>
 * <https://www.purehockey.com/product/bauer-ng-mesh-jill-hockey-shorts-girls/itm/14824-23/?cp=little_devils>
 * <https://www.amazon.com/dp/B00181B8YW/ref=cm_sw_r_cp_api_glt_fabc_N68ABZ7M4YRPBRGP0CN7?_encoding=UTF8&psc=1>
