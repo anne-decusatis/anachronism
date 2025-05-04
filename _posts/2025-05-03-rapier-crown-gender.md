@@ -46,7 +46,7 @@ On a personal note, I often find in mundane life that cisgender men don't bother
 ## Appendix: Spring 2025 Crown Tournament List of Ryouko’jin and Indrakshi - with wiki pages and pronoun data
 Sorted by precedence of higher ranked member of the pair
 
-1. Baroness Leana Doucet fighting for Sir Reinhart Basarab Draculesti -- she/her <ttps://wiki.eastkingdom.org/wiki/Leana_Doucet>
+1. Baroness Leana Doucet fighting for Sir Reinhart Basarab Draculesti -- she/her <https://wiki.eastkingdom.org/wiki/Leana_Doucet>
 2. Caoilfhionn inghean Fhaoláin, Dux, fighting for Syr Brennan mac Fearghus -- she/her <https://wiki.eastkingdom.org/wiki/Caoilfhionn_inghean_Fhaol%C3%A1in>
 3. Jarl Valgard Stonecleaver fighting for Doctor Canicus Ultramontis -- no information on wiki page <https://wiki.eastkingdom.org/wiki/Valgard_Stonecleaver>)
 4. Doctor Canicus Ultramontis fighting for Jarl Valgard Stonecleaver -- no wiki page
