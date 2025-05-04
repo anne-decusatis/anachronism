@@ -32,6 +32,7 @@ I welcome corrections from those in the SCA Rapier community, with two caveats:
 * She/they: 2 (3%)
 * He/they: 2 (3%)
 * No data: 26 (30%)
+
 Total: 88 (100%)
 
 Declared as not he/him: 28 of 62 (45%)
@@ -39,6 +40,7 @@ Declared as not he/him: 28 of 62 (45%)
 * People who listed their pronouns on their wiki: 19 (22%)
 * People who were referred to in the third person on their wiki, from which I inferred pronouns, assuming that wiki pages are authored by the people they're about on the East Kingdom Wiki: 43 (49%)
 * No pronoun data on wiki: 26 (30%)
+
 Total: 88 (100%)
 
 On a personal note, I often find in mundane life that cisgender men don't bother to list their pronouns, so I was heartened by the large number (7) of people with he/him pronouns declared on the East Kingdom Wiki. Thank you for your support for sharing pronouns! I feel it makes it easier for me to share my non-standard pronouns when it is commonplace!
