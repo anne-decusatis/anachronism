@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "My SCA Camping Interaction Draft Rules"
+date:   2025-06-19 19:00:00 -0400
+categories: rapier
+---
+
+I saw a post from a Facebook friend of mine from the Outlands about the 'house rules' she's enforcing for her camp for upcoming events this summer. I have reproduced her rules below, as well as a draft of what my personal preferences are for my camp house rules. My SCA household is thousands of miles and a fraught international border crossing away from me right now, and I am grateful for us to be welcomed to camping with various groups throughout our new local area, so putting these rules out into the world does basically nothing about use of space, but maybe sparks a discussion? As I told my FB friend when I asked her permission to reproduce her post -- although we disagree in places, I think it's wonderful that you are laying out your stance on it so clearly, and I agree that knowing shared/unshared boundaries is important for everyone to be happy.
+
+## Original post from Morgan Cheyney, OP
+
+> Camping season is in full swing, and as the heat index and the political climate continue to rise, I've been thinking about what I want my hard earned vacations/SCA time to look like.  
+> I decided to come up with a set of house rules for my personal space at events. Be that my day shade, or my encampment tent space. 
+> I encourage everyone to make their own set of rules, and stick to them. Then maybe, just maybe, we can all get out the other side of this mess one step closer to being the us we want to be. 
+> My (SCA) House Rules for this heated political climate (Edited for reasons)
+> 1. Please leave modern political discourse at the gate. We can discuss important political issues in the mundane world, I prefer not to in my SCA world. 
+> 2. All are welcome in my house, assuming they can be tolerant. There is no room for hate here. I do not care what color your skin is or who is in your bed at night (or during the day for that matter). It has no bearing on whether you are a good person with decent values. My family has a rainbow of skin colors; and my friends are from all walks of life.  If you can be nice, and make others feel welcome, then you are welcome. 
+> 3. My house is smoke (both kinds) and dog friendly. Cats are a case-by-case basis. They are welcome if they don’t get up on my furniture. I am very VERY allergic to them. 
+> 4. I am an introvert at the core and easily overwhelmed by crowds and lots of noise. If you are looking for a big party, you won’t find it here. If you are looking for a quiet place to hang out with cool people and chill, that’s the vibe. 
+> 5. Alcohol and swearing are allowed, but if there are little kids around, please at least try to act like an adult. 
+> 6. We are disability friendly, we don’t fat (or skinny) shame. And we will share our snacks and water. 
+> 7. I don’t tolerate backstabbing or rudeness. If you see someone in my house that you don’t care for. You have two choices. Come in and be civil or move along and come back later. Do not ask me to choose sides, you probably won’t like my choice. 
+> If you can follow my rules, come on in, and sit a spell. If you can’t, don’t be surprised if I ask you to move along. I’m not putting up with any mean, hateful or cliquish behavior. Life is too short to hang out with jerks while you're on vacation. 
+
+
+## My personal SCA camping interaction rules
+
+1. My existence in the modern world and the existence of people like me in history is extremely politicized. I am uninterested in building a space that is welcoming to people who don't support my right as a transgender person to self-determination and safety, even if they are willing to not talk about it at events. I am also extremely open to talking with people who are curious about what matters to me and don't have another trans person whom they want to ask, or those who want to be respectful but don't yet have the right words. This means that my camp will likely talk about modern politics and life -- I am personally not interested in "enchanted ground" style encampments which limit non-medieval topics and behaviors, even if I didn't need glasses to see.
+2. While I enjoy talking about hot topics (modern politics, technology and labor, etc) at almost any time, there are many people for whom it is a stressful and unwanted topic, including several people I enjoy sharing space with in my SCA camp. If a potentially heated topic comes up, my request is that we stop and take a pulse of the group before continuing. This check should ideally put the burden on us to move away from people in camp who are hanging out and haven't explicitly consented, rather than putting the burden on someone near us to be the first one to speak up and say they don't want to hear it. Please help me be a good friend by reminding me to do this if I am excited about the topic and forget. 
+3. Please don't smoke anything near me, you are welcome to drink alcohol or use other non-airborne substances that you have prior experience with near me, if you can continue to respect boundaries after using them. Know that I will not join you in it (not a careful sobriety thing for me, just not a habit I'm interested in picking up).
+4. I don't have kids or pets and don't know what to do with either of them, but they're welcome to hang out with us if you can provide all needed supervision of them. I will not want to pet your dog but I wish it well on its journey. I'm slightly better with cats but realistically not habituated to them either.
+5. I prefer quiet connection around the campfire to loud revelry. I go to bed early and generally wake up early at events. If you would like to be louder especially late at night, I would appreciate you not being directly adjacent to my tent.
+6. On disability - here are my physical limitations: I am happy to support others when I can, I am usually but not always physically able to help put up tents and carry light to medium weight items. I am never able to sit on the ground without a chair and I may not be able to walk as far as I want to at a larger event, especially after overextending myself the first day. I will gladly eat meat, fish, peanuts, tree nuts, and sesame, sometimes all at once, but Aife will not.
+7. On triggers - some things which I would like to explicitly opt into hearing about are: hospitals (especially psychiatric), weight gain/loss with numbers, medical/legal/institutionally-related trauma that you have experienced. This doesn't mean we can never talk about it, this just means ask if I'm ready for the conversation first. 
+8. I am eager to share sunscreen, bug spray, ibuprofen, hand sanitizer, food if I have it, and suggestions if you want them (trying to check myself better on that last one). 
+9. On interpersonal interactions - I'm here to make friends and here to be a friend. I am willing to be a sympathetic ear and usually somewhat interested in hearing the gossip, but I may not want to take public sides in disputes that don't impact safety. I think my best self is probably less cynical and negative than the self I am today. If I cause a problem for you, I would like to know so that I can try to help resolve it.
