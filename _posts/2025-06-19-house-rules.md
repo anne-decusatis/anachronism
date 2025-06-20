@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My SCA Camping Interaction Draft Rules"
+title:  "My SCA Camping Interaction (Draft) Rules"
 date:   2025-06-19 19:00:00 -0400
-categories: rapier
+categories: event
 ---
 
 I saw a post from a Facebook friend of mine from the Outlands about the 'house rules' she's enforcing for her camp for upcoming events this summer. I have reproduced her rules below, as well as a draft of what my personal preferences are for my camp house rules. My SCA household is thousands of miles and a fraught international border crossing away from me right now, and I am grateful for us to be welcomed to camping with various groups throughout our new local area, so putting these rules out into the world does basically nothing about use of space, but maybe sparks a discussion? As I told my FB friend when I asked her permission to reproduce her post -- although we disagree in places, I think it's wonderful that you are laying out your stance on it so clearly, and I agree that knowing shared/unshared boundaries is important for everyone to be happy.
